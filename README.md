@@ -207,6 +207,30 @@ npm install --save-dev jest @testing-library/react-native
 npm install --save-dev detox
 ```
 
+## 🔧 Troubleshooting
+
+### Web Platform Issues
+The web platform may have issues with NativeWind's CSS processing. This template is optimized for iOS and Android. For web-first apps, consider using a different styling solution.
+
+### Metro Bundler Cache Issues
+If you encounter unexpected errors, try clearing the Metro bundler cache:
+```bash
+npx expo start --clear
+```
+
+### TypeScript Errors
+Make sure all dependencies are installed:
+```bash
+npm install
+npx expo install --fix
+```
+
+### Build Issues
+For native builds, you may need to run:
+```bash
+npx expo prebuild --clean
+```
+
 ## 📚 Learn More
 
 - [Expo Documentation](https://docs.expo.dev/)
