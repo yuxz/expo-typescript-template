@@ -10,14 +10,14 @@ This template includes:
 - **[Expo Router](https://docs.expo.dev/router/introduction/)** - File-based navigation built on React Navigation
 - **[TanStack Query v5](https://tanstack.com/query/latest)** - Powerful data fetching and caching
 - **[Zustand](https://zustand-demo.pmnd.rs/)** - Lightweight state management
-- **[NativeWind v4](https://www.nativewind.dev/)** - Tailwind CSS for React Native
+- **[NativeWind v2](https://www.nativewind.dev/)** - Tailwind CSS for React Native
 - **[TypeScript](https://www.typescriptlang.org/)** - Full type safety and IntelliSense
 
 ## ✨ Features
 
 - ✅ File-based routing with Expo Router
 - ✅ Type-safe navigation
-- ✅ Tailwind CSS styling with NativeWind v4
+- ✅ Tailwind CSS styling with NativeWind v2
 - ✅ Server state management with TanStack Query
 - ✅ Client state management with Zustand
 - ✅ Full TypeScript support
