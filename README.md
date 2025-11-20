@@ -101,7 +101,7 @@ npm run web        # Run on Web
 
 ## 🎨 Styling with NativeWind
 
-This template uses NativeWind v4, which brings Tailwind CSS to React Native:
+This template uses NativeWind v2, which brings Tailwind CSS to React Native:
 
 ```tsx
 <View className="flex-1 bg-gray-50 items-center justify-center p-6">

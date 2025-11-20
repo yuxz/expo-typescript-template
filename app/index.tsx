@@ -36,7 +36,7 @@ export default function Index() {
 
           <View className="bg-pink-50 rounded-xl p-4 border border-pink-200">
             <Text className="text-sm font-semibold text-pink-800 mb-1">
-              ✅ NativeWind v4
+              ✅ NativeWind v2
             </Text>
             <Text className="text-xs text-pink-600">Tailwind CSS styling</Text>
           </View>
