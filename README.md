@@ -119,8 +119,7 @@ Leverage Expo's tooling for superior development and deployment.
 ### ⚡ How to Use It (30 Seconds)
 
 1. **Create Repo from Template:** Click the link above and click "Use this template" on GitHub.
-2. **Clone:** `git clone <https://github.com/yourname/expo-modern-stack.git>`
+2. **Clone:** `git clone <https://github.com/yuxz/expo-typescript-template.git>`
 3. **Install:** `npm install` (or `yarn`)
 4. **Run:** `npx expo start`
 
-*EAS Build & Config Already Included.*
